@@ -1,5 +1,3 @@
-from kivymd.app import MDApp
-from kivymd.uix.label import MDLabel
 import requests
 import json
 def speak(str):
